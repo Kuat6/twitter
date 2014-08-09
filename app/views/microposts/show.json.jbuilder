@@ -1,1 +1,1 @@
-json.extract! @micropost, :content.string, :user, :id, :created_at, :updated_at
+json.extract! @micropost, :content, :user_id, :created_at, :updated_at
