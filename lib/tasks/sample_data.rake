@@ -9,7 +9,7 @@ end
 
 def make_users
   admin = User.create!(name:     "Kuat Konirbayev",
-                        email:    "magistr135@gmail.com",
+                        email:    "magistr135@outlook.com",
                        password: "foobar",
                        password_confirmation: "foobar",
                        admin: true)
